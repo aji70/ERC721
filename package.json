@@ -14,7 +14,10 @@
     "hardhat-ethers": "^1.0.1"
   },
   "dependencies": {
+    "@rainbow-me/rainbowkit": "^1.1.2",
     "dotenv": "^16.3.1",
-    "openzeppelin-solidity": "github:openzeppelin/openzeppelin-contracts"
+    "openzeppelin-solidity": "github:openzeppelin/openzeppelin-contracts",
+    "viem": "^1.16.6",
+    "wagmi": "^1.4.4"
   }
 }
